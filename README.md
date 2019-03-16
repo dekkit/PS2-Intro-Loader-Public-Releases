@@ -60,4 +60,4 @@ Krah.Johlito, Dekkit, Tupakaveli.
 
 
 Please note psx-place is the official thread for any questions, general support, or future versions.
-
+https://www.psx-place.com/threads/ps2-intro-loader-v1-0.23004/ 
